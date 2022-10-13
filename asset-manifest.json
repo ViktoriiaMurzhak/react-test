@@ -1,13 +1,9 @@
 {
   "files": {
-    "main.css": "/ViktoriiaMurzhak/react-test.git/static/css/main.7acaea2f.css",
-    "main.js": "/ViktoriiaMurzhak/react-test.git/static/js/main.07d3183d.js",
-    "index.html": "/ViktoriiaMurzhak/react-test.git/index.html",
-    "main.7acaea2f.css.map": "/ViktoriiaMurzhak/react-test.git/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/ViktoriiaMurzhak/react-test.git/static/js/main.07d3183d.js.map"
+    "main.js": "/ViktoriiaMurzhak/react-test.git/static/js/main.31d6cfe0.js",
+    "index.html": "/ViktoriiaMurzhak/react-test.git/index.html"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/js/main.31d6cfe0.js"
   ]
 }
